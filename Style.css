@@ -1,0 +1,72 @@
+﻿hr.new1 {
+    border-top: 1px solid red;
+  }
+.pagetop
+{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 1.25rem;
+    font-weight: 300;
+    
+}
+
+
+.row
+{
+    margin-top: 3%;
+    padding-left: 19%;
+}
+.card-header
+{
+    text-align: center;
+    font-size: 1.5rem;
+    color:inherit;
+}
+.h1, h5
+{
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+}
+.card-body
+{
+    text-align: center;
+}
+.btn-primary1 {
+    color: blue;
+    background-color:white;
+    border-color: #0d6efd;
+}
+.btn-primary2 {
+    color: blue;
+    background-color:white;
+    border-color: #0d6efd;
+}
+.btn-primary3 {
+    color: blue;
+    background-color:white;
+    border-color: #0d6efd;
+}
+.btn-primary1:hover, .btn-primary2:hover, .btn-primary3:hover {
+    color: #ffffff;
+    background-color: #0000ff;
+    border-color: #0d6efd;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    font-size: 24px;
+}
+.card-title
+{
+    color:gray;
+    font-size: 30px;
+}
+.fs
+{
+    font-size: 32px;
+    color: black;
